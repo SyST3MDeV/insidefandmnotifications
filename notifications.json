@@ -1,1 +1,1 @@
-{"Notification": true, "Style": "Info", "Headline": "Test Notification", "Text": "Notification Text"}
+{"Notification": false, "Style": "Info", "Headline": "Test Notification", "Text": "Notification Text"}
